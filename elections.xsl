@@ -4,11 +4,6 @@
 	<xsl:output method="html"/>
 	<xsl:template match="/">
 
-
-
-
-
-
 <table>
     
         <tr>
